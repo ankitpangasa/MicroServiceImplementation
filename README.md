@@ -14,7 +14,7 @@ A basic implementation of kafka queues with microservices.
 2. After creating a jar file run cmd
 
 ```
- docker build -t springboot-docker:latest
+ docker build -t springboot-docker:latest .
 
 ```
 
